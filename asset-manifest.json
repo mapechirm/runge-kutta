@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/runge-kutta/static/js/main.f7286f28.js",
+    "service-worker.js": "/runge-kutta/service-worker.js",
+    "index.html": "/runge-kutta/index.html",
+    "main.f7286f28.js.map": "/runge-kutta/static/js/main.f7286f28.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f7286f28.js"
+  ]
+}
